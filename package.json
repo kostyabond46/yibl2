@@ -1,0 +1,12 @@
+{
+  "name": "youtube-render-hoster",
+  "version": "1.0.0",
+  "description": "Автоматизація YouTube на Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^21.4.1"
+  }
+}
